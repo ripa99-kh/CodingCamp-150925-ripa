@@ -1,2 +1,3 @@
 this is my first time using git
 i try to understand it
+second try
